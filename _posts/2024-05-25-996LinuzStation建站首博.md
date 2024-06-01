@@ -22,5 +22,5 @@ description: LinuzStation Official Blog 01: First Blog for the news web.
 #### 4. 需要注意的是，本官网仓库的Release仓库将发行每周一期总结收录的Linux新闻及技巧等，名字为《GNU/Linux文摘》。基于CC BY-NC-SA 4.0准则发行。
 ## Q3：我想引用新闻站的文章，请问该注意哪些事项？
 ### A3：前面已经说过，本站所有内容遵守CC BY-NC-SA 4.0准则，因此要遵循非营利性的知识共享原则，您可以重复分发我的文章，可以引用，但是必须说明出处：**OpenLinuz新闻网**，若不遵守该准则就是违背了开源运动的准则和不盈利的知识共享，因此官方必须作出适当性的署名来维护这个准则。
-#### 
+
 #### 以上就是一些注意事项，请大家多多支持linuzStation，让GNU/Linux在中国能受到更多人的重视！
